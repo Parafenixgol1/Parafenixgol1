@@ -8,12 +8,6 @@
 - 🎮 Aficionado a los videojuegos, 📚 la lectura y en constante búsqueda de nuevo conocimiento.
 - 🤝 Interesado en colaborar en proyectos relacionados con Machine Learning, Ciencia de Datos e Ingeniería de Datos.
 
-## 🚧 Proyectos Destacados
-
-- **Modelización de Consumo de Energía en Auxiliares**: Análisis y modelización del consumo en sistemas HVAC y compresores en trenes 🚉, usando datos agregados por eventos.
-- **Análisis de Cargadores para Vehículos Eléctricos** ⚡: Segmentación y análisis de tipos de cargadores basados en atributos clave para facilitar la toma de decisiones en la industria de movilidad eléctrica.
-- **Market Basket Analysis** 🛒: Proyecto de análisis de patrones de compra mediante el algoritmo Apriori, con aplicaciones en optimización de ventas y estrategia comercial.
-
 ## 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Parafenixgol1&show_icons=true&theme=radical)
